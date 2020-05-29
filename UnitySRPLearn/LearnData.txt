@@ -1,0 +1,4 @@
+英文原文
+https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/custom-pipeline/
+中文知乎翻译
+https://zhuanlan.zhihu.com/c_1152899463470379008
